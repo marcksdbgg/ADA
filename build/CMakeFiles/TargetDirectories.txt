@@ -1,0 +1,3 @@
+/workspaces/ADA/build/CMakeFiles/ADA.dir
+/workspaces/ADA/build/CMakeFiles/edit_cache.dir
+/workspaces/ADA/build/CMakeFiles/rebuild_cache.dir
